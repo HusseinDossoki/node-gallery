@@ -1,11 +1,11 @@
-# [Node-Gallery](#)  [![version][version-badge]][CHANGELOG]
+# [Node-Gallery](https://mongo-gallery.herokuapp.com/)  [![version][version-badge]][CHANGELOG]
 
 
-**[Node-Gallery](#)** uploading images to the mongo database 
+**[Node-Gallery](https://mongo-gallery.herokuapp.com/)** uploading images to the mongo database 
 
 ## Links:
 
-+ [Live Preview](#)
++ [Live Preview](https://mongo-gallery.herokuapp.com/)
 
 
 ## Used Technologies:
